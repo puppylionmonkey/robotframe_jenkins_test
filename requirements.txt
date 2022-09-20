@@ -1,2 +1,5 @@
 robotframework
 robotframework-seleniumlibrary
+robotframework-jenkins
+robotframework-requests
+robotframework-jsonlibrary
