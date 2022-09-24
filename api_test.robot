@@ -5,7 +5,7 @@ Library  JSONLibrary
 Library  Collections
 
 
-Suite Setup    Create Session  jsonplaceholder  http://127.0.0.1:5000/read_selected_stock
+Suite Setup    Create Session  jsonplaceholder  http://127.0.0.1:5000/read_selecㄈted_stock
 *** Variables ***
 ${URL}  https://www.thetestingworld.com/
 ${BROWSER}    Chrome
